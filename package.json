@@ -4,11 +4,9 @@
     "nuxt": "latest"
   },
   "scripts": {
+    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "node .output/server/index.mjs",
-    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "start": "nuxt start"
   }
 }
