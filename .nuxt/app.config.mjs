@@ -4,7 +4,7 @@ import { defuFn } from 'C:/Users/User/Desktop/prep_proj/git deployments/nuxtRend
 
 const inlineConfig = {
   "nuxt": {
-    "buildId": "dd12aab8-d582-4ecc-86a5-e63daf497107"
+    "buildId": "401711c3-bd54-47ba-96c9-c202e198fbcd"
   }
 }
 

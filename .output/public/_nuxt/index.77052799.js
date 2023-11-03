@@ -1,1 +1,0 @@
-import{_ as t,i as o,s as a,x as s,y as n,t as c,q as r,z as _}from"./entry.4702dc07.js";const d={head:{title:"Home page"}},i=c("h1",null,"Welcome!",-1);function l(p,u,m,f,x,h){const e=o("NLink");return r(),a("div",null,[i,s(e,{to:"/about"},{default:n(()=>[_(" About Page ")]),_:1})])}const k=t(d,[["render",l]]);export{k as default};
