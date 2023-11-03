@@ -1,4 +1,4 @@
-export default {
+const client_manifest = {
   "_vue.f36acd1f.52277cab.js": {
     "resourceType": "script",
     "module": true,
@@ -100,4 +100,7 @@ export default {
     "isDynamicEntry": true,
     "src": "pages/index.vue"
   }
-}
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map
